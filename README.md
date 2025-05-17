@@ -1,9 +1,9 @@
-Heart-Disease-and-Stroke-Prevention-Dataset
+**Heart-Disease-and-Stroke-Prevention-Dataset**
 
 This repository contains the Heart Disease and Stroke Prevention dataset, sourced from Kaggle. The dataset offers a comprehensive overview of cardiovascular diseases (CVDs) and associated risk factors within the United States, aiming to support public health research and preventive strategies.
 
 
-Dataset Overview
+**Dataset Overview**
 
 Source: Kaggle - Heart Disease & Stroke Prevention
 
@@ -39,6 +39,6 @@ Public health policy development and preventive measures
 
 Educational purposes in data science and healthcare analytics
 
-Usage
+**Usage**
 
 You can utilize this dataset for various analytical and machine learning projects. Ensure to adhere to any licensing or usage guidelines provided by the original dataset source.
