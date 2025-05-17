@@ -1,38 +1,44 @@
-#Heart-Disease-and-Stroke-Prevention-Dataset
+Heart-Disease-and-Stroke-Prevention-Dataset
 
-##This repository contains the Heart Disease and Stroke Prevention dataset, sourced from Kaggle. The dataset offers a comprehensive overview of cardiovascular diseases (CVDs) and associated risk factors within the United States, aiming to support public health research and preventive strategies.
-##Dataset Overview
+This repository contains the Heart Disease and Stroke Prevention dataset, sourced from Kaggle. The dataset offers a comprehensive overview of cardiovascular diseases (CVDs) and associated risk factors within the United States, aiming to support public health research and preventive strategies.
 
-##Source: Kaggle - Heart Disease & Stroke Prevention
 
-##Size: Approximately 400,000 entries
+Dataset Overview
 
-##Format: CSV
+Source: Kaggle - Heart Disease & Stroke Prevention
 
-##Features: Includes demographic details, health behaviors, and medical history such as:
+Size: Approximately 400,000 entries
 
-##Age, Gender, Race
+Format: CSV
 
-##BMI (Body Mass Index)
+Features: Includes demographic details, health behaviors, and medical history such as:
 
-##Smoking and Alcohol Consumption
+Age, Gender, Race
 
-##Physical Activity
+BMI (Body Mass Index)
 
-##Sleep Duration
+Smoking and Alcohol Consumption
 
-##Presence of conditions like Diabetes, Asthma, Kidney Disease
+Physical Activity
 
-##Mental Health Status
+Sleep Duration
 
-##Indicators for Heart Disease and Stroke
+Presence of conditions like Diabetes, Asthma, Kidney Disease
+
+Mental Health Status
+
+Indicators for Heart Disease and Stroke
 
 #Potential Applications
 
-##Predictive modeling for heart disease and stroke risk
-##Analysis of health behavior impacts on cardiovascular health
-##Public health policy development and preventive measures
-##Educational purposes in data science and healthcare analytics
-#Usage
+Predictive modeling for heart disease and stroke risk
 
-##You can utilize this dataset for various analytical and machine learning projects. Ensure to adhere to any licensing or usage guidelines provided by the original dataset source.
+Analysis of health behavior impacts on cardiovascular health
+
+Public health policy development and preventive measures
+
+Educational purposes in data science and healthcare analytics
+
+Usage
+
+You can utilize this dataset for various analytical and machine learning projects. Ensure to adhere to any licensing or usage guidelines provided by the original dataset source.
